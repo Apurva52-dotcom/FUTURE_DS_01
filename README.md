@@ -15,3 +15,35 @@ please download the file to view
 - Calculated churn rate and retention rate
 - Visualized churn patterns by subscription type and tenure
 - Provided actionable recommendations for customer retention
+
+
+Files
+
+Task3_Marketing_Funnel_Analysis.ipynb
+Main Jupyter Notebook containing data analysis, conversion metrics, visualizations, and insights.
+
+marketing_funnel_data.csv
+Marketing funnel dataset with leads, qualified leads, trials, and customers across channels.
+
+README.md
+Project description and summary.
+
+Summary
+
+Calculated conversion rates at each funnel stage
+
+Identified major drop-off points in the funnel
+
+Analyzed channel-wise lead-to-customer performance
+
+Visualized overall funnel drop-off and channel conversions
+
+Provided actionable recommendations to improve conversions
+
+Key Insights
+
+Major drop-off occurs between Qualified Leads and Trials
+
+Organic Search and Referral channels show the highest conversion rates
+
+Paid channels have lower lead-to-customer conversion and need optimization
